@@ -1,0 +1,47 @@
+body{
+    background-color: #070A52;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+     color: palegreen;
+     font-size: 144px;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    color: palegreen;
+    
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+
+.players{
+    position: relative;
+    margin: auto;
+}
+
+.first{
+    display: inline-block;
+}
+
+.second{
+    display: inline-block;
+}
+
+img{
+    width: 80%;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 5px;
+    color: greenyellow;
+    margin: 100px auto;
+}
+
+footer{
+    margin-top: 60px;
+    color: blueviolet;
+}
